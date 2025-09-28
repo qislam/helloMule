@@ -46,3 +46,6 @@ target/
 .DS_Store
 velocity.log
 .tooling-project
+
+# Other
+**/test/resources/embedded-dw*/
